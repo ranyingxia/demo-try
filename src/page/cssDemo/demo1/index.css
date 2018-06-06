@@ -1,0 +1,9 @@
+.quote-right:before, .quote-right:after {
+  content: '';
+  display: inline-block;
+  width: 20%;
+  margin: 5px 5%;
+  border-bottom: 1px solid #cacaca; }
+
+.quote-right:after {
+  clear: both; }
